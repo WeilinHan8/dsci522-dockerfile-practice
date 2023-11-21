@@ -1,1 +1,2 @@
-# dsci522-dockerfile-practice
+# DSCI522 Dockerfile Practice
+--author Weilin Han
